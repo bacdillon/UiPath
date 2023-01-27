@@ -1,0 +1,6 @@
+Dear Say Ron,
+
+Activity has completed {0}.
+
+Regards
+Alfred Bot
