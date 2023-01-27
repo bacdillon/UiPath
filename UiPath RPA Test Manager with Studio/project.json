@@ -1,0 +1,99 @@
+{
+  "name": "Test hashing process",
+  "description": "",
+  "main": "SHA_Check.xaml",
+  "dependencies": {
+    "RBanda.TestReportGenerator.Activities": "[1.4.1]",
+    "UiPath.System.Activities": "[22.8.0-preview]",
+    "UiPath.Testing.Activities": "[22.8.2-preview]",
+    "UiPath.UIAutomation.Activities": "[22.8.0-preview]"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "20.5.0.0",
+  "projectVersion": "1.0.115780591",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "netFrameworkLazyLoading": false,
+    "isPausable": true,
+    "isAttended": false,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false,
+    "mustRestoreAllDependencies": false
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Process",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": [
+        "TestCase.xaml"
+      ]
+    },
+    "fileInfoCollection": [
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "7200cde3-5d69-4741-aad0-d3c19411f14d",
+        "testCaseType": "TestCase",
+        "fileName": "TC_SHA_Check.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "1e50819d-ccc2-4bae-b786-5489e15b3535",
+        "testCaseType": "TestCase",
+        "fileName": "TC_SHA_Check_DataDriven.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "693673b2-b942-4148-b206-5bc66765d515",
+        "dataVariationFilePath": ".variations\\Hash-Results_Sheet1.json",
+        "testCaseType": "TestCase",
+        "fileName": "HashTestCase.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "62b3b0e6-d878-4641-9d18-923ad7b22831",
+        "testCaseType": "TestCase",
+        "fileName": "Test-Case.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "c379f3bf-175b-422c-bd13-e084c24a14a5",
+        "dataVariationFilePath": ".variations\\Hash-Results_Sheet1_1.json",
+        "testCaseType": "TestCase",
+        "fileName": "HashTestCase - Report Generator.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "62971884-6306-4778-948d-1f13ffbcea82",
+        "testCaseType": "TestCase",
+        "fileName": "HashTestCase - Manually.xaml"
+      }
+    ],
+    "modernBehavior": true
+  },
+  "expressionLanguage": "VisualBasic",
+  "entryPoints": [
+    {
+      "filePath": "SHA_Check.xaml",
+      "uniqueId": "89e0b9fc-8518-482a-99d9-6bc39b878119",
+      "input": [],
+      "output": []
+    }
+  ],
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {},
+  "targetFramework": "Legacy"
+}
