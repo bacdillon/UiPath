@@ -11,7 +11,7 @@ Django CRUD Operations with PostgreSQL
 
 Here is a process overview of what Alfred will do
 
-![alt text](https://github.com/bacdillon/UIPATH-Alfred-Bot/blob/main/Overview.jpg)
+![alt text](https://github.com/bacdillon/UiPath/blob/main/UiPath%20Alfred%20CRM/Overview.jpg)
 
 1.Open Email  
 2.Download email excel customers attachment  
