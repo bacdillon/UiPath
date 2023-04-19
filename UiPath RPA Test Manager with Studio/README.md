@@ -19,4 +19,4 @@ Through data-driven testing, run the same test using different data variations w
 # Test Manager
 Test Manager is the component used for managing the test process, automated test case creation in Studio or automated test execution by test robots.
 
-![alt text](https://github.com/bacdillon/UiPath-Test-Suite/blob/main/image.JPG)
+![alt text](https://github.com/bacdillon/UiPath/blob/main/UiPath%20RPA%20Test%20Manager%20with%20Studio/image.JPG)
