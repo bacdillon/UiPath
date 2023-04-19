@@ -8,5 +8,5 @@ Document Understanding widely used in the UiPath product portfolio to extract da
 - Validated: If the confidence of the extraction is less, then the data will be sent to the human validation step. Otherwise, it can be exported directly.
 - Export: In this step, the expected data extraction is reported to the requestor system
 
-![alt text](https://github.com/bacdillon/UiPath-Intelligent-Document-Processing/blob/main/Capture.JPG)
+![alt text](https://github.com/bacdillon/UiPath/blob/main/UiPath%20Intelligent%20Document%20Processing/DU.JPG)
 
