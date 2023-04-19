@@ -6,7 +6,7 @@ Use Studio to create, design, and map test cases and execution results to requir
 
 If encounter an error, the execution logs the failed activity in the Output panel as opposed to stopping the workflow from running.
 
-![alt text](https://github.com/bacdillon/UiPath-Test-Suite/blob/main/OutputErrorPassed.JPG)
+![alt text](https://github.com/bacdillon/UiPath/blob/main/UiPath%20RPA%20Test%20Manager%20with%20Studio/OutputErrorPassed.JPG)
 
 # Data-Driven Testing
 Data-driven testing allows to test RPA workflows and applications to make sure that the automations can handle multiple scenarios.
