@@ -36,5 +36,7 @@ Here is a process overview of what Alfred will do
 video: https://youtu.be/Q4bai4yCoZw
 
 
-# CRM Operations
-Streamlit CRUD Operations with MySQL
+# CRM Operations Streamlit with MySQL Database
+
+	
+
