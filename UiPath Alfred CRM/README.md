@@ -5,12 +5,12 @@ Alfred – a robot built using UiPath. One of the software robots in the organiz
 
 # CRM Operations Django with PostgreSQL Database
 
-![alt text](https://github.com/bacdillon/UiPath/blob/main/UiPath%20Alfred%20CRM/main.JPG)
-![alt text](https://github.com/bacdillon/UiPath/blob/main/UiPath%20Alfred%20CRM/01.jpg)
+![alt text](https://github.com/bacdillon/UiPath/blob/main/UiPath%20Alfred%20CRM/Images/main.JPG)
+![alt text](https://github.com/bacdillon/UiPath/blob/main/UiPath%20Alfred%20CRM/Images/01.jpg)
 
 Here is a process overview of what Alfred will do
 
-![alt text](https://github.com/bacdillon/UiPath/blob/main/UiPath%20Alfred%20CRM/Overview.jpg)
+![alt text](https://github.com/bacdillon/UiPath/blob/main/UiPath%20Alfred%20CRM/Images/Overview.jpg)
 
 1.Open an Email  
 2.Download email excel customers attachment  
