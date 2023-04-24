@@ -1,6 +1,6 @@
 # UiPath HR OnBoard New Hire
 
-![alt text](https://github.com/bacdillon/UiPath-HR-OnBoard-New-Hire/blob/main/hr.png)
+![alt text](https://github.com/bacdillon/UiPath/blob/main/UiPath%20HR%20Onboard%20New%20Hire/hr.png)
 
 # INTRODUCTION
 
