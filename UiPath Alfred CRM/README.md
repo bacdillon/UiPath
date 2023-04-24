@@ -31,7 +31,7 @@ Here is a process overview of what Alfred will do
 14. Commit to master database  
 15. Send the progress email with attachment to the sender once completed the task  
 
-# Upated: CRM Operations Streamlit with MySQL Database (UiPath Re-Framework)
+# Upated: Streamlit Application with MySQL Database (UiPath Re-Framework)
 ![alt text](https://github.com/bacdillon/UiPath/blob/main/UiPath%20Alfred%20CRM/Images/MainScreen.JPG)
 
 # Alfred Bot in action
