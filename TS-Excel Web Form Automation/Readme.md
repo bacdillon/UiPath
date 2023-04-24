@@ -1,7 +1,7 @@
 # Automated Test Case Creation
-Opportunities to scale: 
-Automation libraries to each market 
-Automated Data validation
+Opportunities to scale:
+Automation libraries to each market
+Automated Data Validation
 Continuous Test Automation via CI/CD
 Test Data Automation
 Process Automation
