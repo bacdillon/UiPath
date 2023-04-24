@@ -31,12 +31,9 @@ Here is a process overview of what Alfred will do
     somehow the robot still processes the rest of customers without interrupted  
 14. Commit to master database  
 15. Send the progress email with attachment to the sender once completed the task  
-	
-# Alfred Bot in action
-video: https://youtu.be/Q4bai4yCoZw
-
 
 # CRM Operations Streamlit with MySQL Database
 ![alt text](https://github.com/bacdillon/UiPath/blob/main/UiPath%20Alfred%20CRM/Images/MainScreen.JPG)
 
-
+# Alfred Bot in action
+video: https://youtu.be/Q4bai4yCoZw
