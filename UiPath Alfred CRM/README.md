@@ -12,7 +12,7 @@ Here is a process overview of what Alfred will do
 
 ![alt text](https://github.com/bacdillon/UiPath/blob/main/UiPath%20Alfred%20CRM/Overview.jpg)
 
-1.Open Email  
+1.Open an Email  
 2.Download email excel customers attachment  
 3. Open CRM browser  
 4. Enter email address and password to login  
