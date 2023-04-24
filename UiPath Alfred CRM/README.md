@@ -38,5 +38,5 @@ video: https://youtu.be/Q4bai4yCoZw
 
 # CRM Operations Streamlit with MySQL Database
 
-	
+![My Skills](https://skillicons.dev/icons?i=py,git,github,discord,bootstrap,arduino)
 
