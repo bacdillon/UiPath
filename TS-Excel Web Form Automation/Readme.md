@@ -7,6 +7,9 @@
 - Test Data Automation
 - Process Automation
 
+# Digital Web Form
+![alt text](https://github.com/bacdillon/UiPath/blob/main/TS-Excel%20Web%20Form%20Automation/images/Webform.JPG)
+
 # File Test Data Variation
 ![alt text](https://github.com/bacdillon/UiPath/blob/main/TS-Excel%20Web%20Form%20Automation/images/Data.JPG)
 
