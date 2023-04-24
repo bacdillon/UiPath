@@ -15,3 +15,9 @@ https://github.com/bacdillon/UiPath/blob/main/TS-Excel%20Web%20Form%20Automation
 
 ![alt text](https://github.com/bacdillon/UiPath/blob/main/UiPath%20Alfred%20CRM/Images/alfred-bot.jpg)
 
+## Collaboration
+***
+Provide instructions on how to collaborate with your project.
+> Maybe you want to write a quote in this part. 
+> Should it encompass several lines?
+> This is how you do it.
