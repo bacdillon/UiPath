@@ -1,5 +1,11 @@
 # Automated Test Case Creation
-Alfred – a robot built using UiPath. One of the software robots in the organization is to improve the handling of incoming email with list of excel worksheet attached new onboarding or existing customers details to be update from the Customer Relationship Management (CRM), estimated to be around 10.000 email a year globally.
+Opportunities to scale: 
+Automation libraries to each market 
+Automated Data validation
+Continuous Test Automation via CI/CD
+Test Data Automation
+Process Automation
+![image](https://user-images.githubusercontent.com/8636092/233962500-4fd138ae-f7de-4cfa-a473-ca0ffd56157f.png)
 
 ![alt text](https://github.com/bacdillon/UiPath/blob/main/UiPath%20Alfred%20CRM/Images/alfred-bot.jpg)
 
