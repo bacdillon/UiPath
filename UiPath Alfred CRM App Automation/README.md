@@ -1,16 +1,16 @@
 # UIPATH-Alfred-Bot
 Alfred – a robot built using UiPath. One of the software robots in the organization is to improve the handling of incoming email with list of excel worksheet attached new onboarding or existing customers details to be update from the Customer Relationship Management (CRM), estimated to be around 10.000 email a year globally.
 
-![alt text](https://github.com/bacdillon/UiPath/blob/main/UiPath%20Alfred%20CRM/Images/alfred-bot.jpg)
+![alt text](https://github.com/bacdillon/UiPath/blob/main/UiPath%20Alfred%20CRM%20App%20Automation/Images/alfred-bot.jpg)
 
 # CRM Operations Django with PostgreSQL Database
 
-![alt text](https://github.com/bacdillon/UiPath/blob/main/UiPath%20Alfred%20CRM/Images/main.JPG)
-![alt text](https://github.com/bacdillon/UiPath/blob/main/UiPath%20Alfred%20CRM/Images/01.jpg)
+![alt text](https://github.com/bacdillon/UiPath/blob/main/UiPath%20Alfred%20CRM%20App%20Automation/Images/main.JPG)
+![alt text](https://github.com/bacdillon/UiPath/blob/main/UiPath%20Alfred%20CRM%20App%20Automation/Images/01.jpg)
 
 Here is a process overview of what Alfred will do
 
-![alt text](https://github.com/bacdillon/UiPath/blob/main/UiPath%20Alfred%20CRM/Images/Overview.jpg)
+![alt text](https://github.com/bacdillon/UiPath/blob/main/UiPath%20Alfred%20CRM%20App%20Automation/Images/Overview.jpg)
 
 1.Open an Email  
 2.Download email excel customers attachment  
@@ -32,7 +32,7 @@ Here is a process overview of what Alfred will do
 15. Send the progress email with attachment to the sender once completed the task  
 
 # Upated: Streamlit Application with MySQL Database (UiPath Re-Framework)
-![alt text](https://github.com/bacdillon/UiPath/blob/main/UiPath%20Alfred%20CRM/Images/MainScreen.JPG)
+![alt text](https://github.com/bacdillon/UiPath/blob/main/UiPath%20Alfred%20CRM%20App%20Automation/Images/MainScreen.JPG)
 
 # Alfred Bot in action
 video: https://youtu.be/Q4bai4yCoZw
