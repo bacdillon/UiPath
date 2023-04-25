@@ -8,17 +8,17 @@
 - Process Automation
 
 # Digital Web Form
-![alt text](https://github.com/bacdillon/UiPath/blob/main/TS-Excel%20Web%20Form%20Automation/images/Webform.JPG)
+![alt text](https://github.com/bacdillon/UiPath/blob/main/UiPath%20Web%20App%20Automation%20Testing/images/Webform.JPG)
 
 # File Test Data Variation
-![alt text](https://github.com/bacdillon/UiPath/blob/main/TS-Excel%20Web%20Form%20Automation/images/Data.JPG)
+![alt text](https://github.com/bacdillon/UiPath/blob/main/UiPath%20Web%20App%20Automation%20Testing/images/Data.JPG)
 
 # Data Service Test Data Variation
 
 # Execute Test Set on Orchestrator Testing Platform
-![alt text](https://github.com/bacdillon/UiPath/blob/main/TS-Excel%20Web%20Form%20Automation/images/Test%20Cases.JPG)
+![alt text](https://github.com/bacdillon/UiPath/blob/main/UiPath%20Web%20App%20Automation%20Testing/images/Test%20Cases.JPG)
 
 # Execute Test Set on Test Manager Hub
-![alt text](https://github.com/bacdillon/UiPath/blob/main/TS-Excel%20Web%20Form%20Automation/images/Test%20manager%20hub.JPG)
+![alt text](https://github.com/bacdillon/UiPath/blob/main/UiPath%20Web%20App%20Automation%20Testing/images/Test%20manager%20hub.JPG)
 
 
