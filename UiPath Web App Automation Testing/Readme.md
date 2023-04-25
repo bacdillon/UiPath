@@ -1,5 +1,5 @@
 # Automated Test Case Creation
-![alt text](https://github.com/bacdillon/UiPath/blob/main/UiPath%20Alfred%20CRM/Images/alfred-bot.jpg)
+![alt text](https://github.com/bacdillon/UiPath/blob/main/UiPath%20Web%20App%20Automation%20Testing/images/alfred-bot.jpg)
 <br> Opportunities to scale:
 - Automation libraries to each market
 - Automated Data Validation
