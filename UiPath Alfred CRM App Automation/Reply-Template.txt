@@ -1,0 +1,6 @@
+Dear Sir,
+
+Activity has completed {0}.
+
+Regards
+Alfred Bot
