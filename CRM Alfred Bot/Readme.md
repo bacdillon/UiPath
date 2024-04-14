@@ -1,4 +1,4 @@
-## Rock, Paper, Scissors
+## Alfred Bot - Customer Relationship Mnagement
 ![alt_text](https://github.com/bacdillon/Python/blob/master/Rock%20Paper%20Scissors/Rock-paper-scissors.jpg)
 
 * Create variables to track wins for the player and the computer.
