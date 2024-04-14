@@ -1,11 +1,7 @@
-## Alfred Bot - Customer Relationship Managment
+## Alfred Bot - Generate Annual Bonus Analysis Report
 
-![alt_text](https://github.com/bacdillon/UiPath/blob/main/CRM%20Alfred%20Bot/CRM%20application.jpg)
+![alt_text](https://github.com/bacdillon/UiPath/blob/main/Annual%20Bonus%20Analysis%20Report%20Generate/Process%20Flow.jpg)
 
-![alt_text](https://github.com/bacdillon/UiPath/blob/main/CRM%20Alfred%20Bot/Process%20Overview.jpg)
+![alt_text](https://github.com/bacdillon/UiPath/blob/main/Annual%20Bonus%20Analysis%20Report%20Generate/Alfred%20Action.jpg)
 
-![alt_text](https://github.com/bacdillon/UiPath/blob/main/CRM%20Alfred%20Bot/Detail%20Level%20Process%20Map%20.jpg)
 
-![alt_text](https://github.com/bacdillon/UiPath/blob/main/CRM%20Alfred%20Bot/Process%20Map.jpg)
-
-![alt_text](https://github.com/bacdillon/UiPath/blob/main/CRM%20Alfred%20Bot/Alfred%20Action.jpg)
