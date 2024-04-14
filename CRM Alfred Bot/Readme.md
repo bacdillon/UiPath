@@ -1,4 +1,6 @@
 ## Alfred Bot - Customer Relationship Mnagement
+
+![alt_text](https://github.com/bacdillon/UiPath/blob/main/CRM%20Alfred%20Bot/Process%20Overview.jpg)
 ![alt_text](https://github.com/bacdillon/UiPath/blob/main/CRM%20Alfred%20Bot/Detail%20Level%20Process%20Map%20.jpg)
 
 1. Open Email
