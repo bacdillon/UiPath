@@ -4,4 +4,6 @@
 
 ![alt_text](https://github.com/bacdillon/UiPath/blob/main/Annual%20Bonus%20Analysis%20Report%20Generate/Alfred%20Action.jpg)
 
+![alt_text](https://github.com/bacdillon/UiPath/blob/main/Annual%20Bonus%20Analysis%20Report%20Generate/Report%201.jpg)
 
+![alt_text](https://github.com/bacdillon/UiPath/blob/main/Annual%20Bonus%20Analysis%20Report%20Generate/Alfred%20Action.jpg)
