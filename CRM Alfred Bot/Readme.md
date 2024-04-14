@@ -19,8 +19,9 @@
     somehow the robot still processes the rest of customers without interrupted
 14. Commit to master database
 15. Send the progress email with attachment to the sender once completed the task
-![image](https://github.com/bacdillon/UiPath/assets/8636092/c839e7b5-cd86-42d8-b245-1605950130e1)
+    
 
 
-![alt_text](https://github.com/bacdillon/Python/blob/master/Rock%20Paper%20Scissors/Output.JPG)
+
+![alt_text](https://github.com/bacdillon/UiPath/blob/main/CRM%20Alfred%20Bot/Process%20Map.jpg)
 
